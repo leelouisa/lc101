@@ -1,0 +1,21 @@
+article {
+    font-family: arial;
+    margin-left: 80px;
+}
+
+.title {
+    font-weight: bold;
+    color: blue;
+    font-size: 20px;
+}
+
+section {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+footer{
+    font-size: 8pt;
+    text-align: center;
+}
